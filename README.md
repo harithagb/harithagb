@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harithagb
-- 👀 I’m interested in NLP and data science
-- 🌱 I’m currently learning BART and Zero Shot Classifiers!
-- 💞️ I’m looking to collaborate on Natural Language Inference problems.
+- 👀 I’m currently a student at NYU MFE.
+- 🌱 I’m hoping to be a quant researcher- and this is my documentation :)
+- 💞️ I’m looking to collaborate on QUant Research problems and things to try out.
 - 📫 How to reach me: email me at reach.harithagb@gmail.com :)
 
 <!---
