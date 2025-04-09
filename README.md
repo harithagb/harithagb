@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harithagb
 - 👀 I’m currently a student at NYU MFE.
-- 🌱 I’m hoping to be a quant/trader- and this is my documentation :)
-- 💞️ I’m looking to collaborate on quant research problems and things to try out: I'm not too specific right now!
+- 🌱 I’m hoping to be a quant- and this is my documentation :)
+- 💞️ I’m actively interviewing for QR/QT roles, so if any of my projects here are interesting, please reach out.
 - 📫 How to reach me: email me at reach.harithagb@gmail.com :)
 
 <!---
