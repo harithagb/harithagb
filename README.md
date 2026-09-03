@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @harithagb
-- 👀 I’m currently a student at NYU MFE.
-- 🌱 I'm currently a rates quant [contract] :)
-- 💞️ I’m actively interviewing for QR/QT roles, so if any of my projects here are interesting, please reach out.
-- 📫 How to reach me: email me at reach.harithagb@gmail.com :)
 
 <!---
 harithagb/harithagb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
